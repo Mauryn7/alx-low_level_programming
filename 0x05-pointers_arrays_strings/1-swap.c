@@ -3,6 +3,7 @@
 /**
  * swap_int - swap numbers function
  * @a: integer
+ * @b: integer
  *
  * Return: nothing
  */
