@@ -1,12 +1,4 @@
-#ifndef _VARIADIC_FUNCTIONS_
-#define _VARIADIC_FUNCTIONS_
-
-#include <stdarg.h>
-#include <stdio.h>
-
-int sum_them_all(const unsigned int n, ...);
-void print_numbers(const char *separator, const unsigned int n, ...);
-void print_strings(const char *separator, const unsigned int n, ...);
-void print_all(const char * const format, ...);
-
-#endif
+[master d75a275] My first commt task
+ 2 files changed, 13 insertions(+)
+ create mode 100644 0x10-variadic_functions/README.md
+ create mode 100755 0x10-variadic_functions/variadic_functions.h
